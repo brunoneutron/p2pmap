@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/res/merged/debug/interpolator/mr_fast_out_slow_in.xml",
+        "source": "/home/neutron/.android/build-cache/3f0104fc2c82e11f665ecb99e020028530be8f06/output/res/interpolator/mr_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/res/merged/debug/interpolator/mr_linear_out_slow_in.xml",
+        "source": "/home/neutron/.android/build-cache/3f0104fc2c82e11f665ecb99e020028530be8f06/output/res/interpolator/mr_linear_out_slow_in.xml"
+    }
+]

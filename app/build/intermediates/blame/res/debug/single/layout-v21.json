@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/home/neutron/.android/build-cache/35a7aaad44eed314461bcc0115618cb070be2235/output/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/neutron/.android/build-cache/908d4901ca9047a01fb2e9b210c9e3e6c7cba13b/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/neutron/.android/build-cache/908d4901ca9047a01fb2e9b210c9e3e6c7cba13b/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/neutron/.android/build-cache/908d4901ca9047a01fb2e9b210c9e3e6c7cba13b/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/neutron/.android/build-cache/908d4901ca9047a01fb2e9b210c9e3e6c7cba13b/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

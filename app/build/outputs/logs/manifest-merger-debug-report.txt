@@ -1,0 +1,443 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/neutron/AndroidStudioProjects/P2PMap/app/src/main/AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from /home/neutron/AndroidStudioProjects/P2PMap/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /home/neutron/AndroidStudioProjects/P2PMap/app/src/main/AndroidManifest.xml
+		INJECTED from /home/neutron/AndroidStudioProjects/P2PMap/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/neutron/AndroidStudioProjects/P2PMap/app/src/main/AndroidManifest.xml
+		INJECTED from /home/neutron/AndroidStudioProjects/P2PMap/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/neutron/AndroidStudioProjects/P2PMap/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/neutron/AndroidStudioProjects/P2PMap/app/src/main/AndroidManifest.xml
+		INJECTED from /home/neutron/AndroidStudioProjects/P2PMap/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/neutron/AndroidStudioProjects/P2PMap/app/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /home/neutron/AndroidStudioProjects/P2PMap/app/src/main/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /home/neutron/AndroidStudioProjects/P2PMap/app/src/main/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] /home/neutron/.android/build-cache/86b4e3dd5774c70073c373056d40d1d5d7425550/output/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:10.2.0] /home/neutron/.android/build-cache/8193db9a1d4afa069d46e5ef48df78111b42565a/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.0] /home/neutron/.android/build-cache/770411493bc5576c2547ea43b66db2228ca4f7e2/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:10.2.0] /home/neutron/.android/build-cache/34ebbf99de498b7befb84c224f8707326bc99485/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:10.2.0] /home/neutron/.android/build-cache/861fa4f4fd14599d6c185302b65605c6fce55eaa/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.2.0] /home/neutron/.android/build-cache/27833d1483ac4742e80ada78a38b93f40d7989ed/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/neutron/.android/build-cache/7712e82a840964b7b43d338b7cb6b8481768ad67/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] /home/neutron/.android/build-cache/3646e490e826d62c4952121ddd826a20e874977f/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /home/neutron/.android/build-cache/516b2f2d5a03c79c278bfc9aa7e0b4b3d65fea70/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /home/neutron/.android/build-cache/caba13ec40ad0080ca2d03ad675e7978911efdcc/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] /home/neutron/.android/build-cache/64c3466714f87cf3f4b57bdfe5413c0d24c5723e/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] /home/neutron/.android/build-cache/1e2e74860b421720db1f8db7f09d2a72108345f9/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /home/neutron/AndroidStudioProjects/P2PMap/app/src/main/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/neutron/AndroidStudioProjects/P2PMap/app/src/main/AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] /home/neutron/.android/build-cache/86b4e3dd5774c70073c373056d40d1d5d7425550/output/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:10.2.0] /home/neutron/.android/build-cache/8193db9a1d4afa069d46e5ef48df78111b42565a/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:10.2.0] /home/neutron/.android/build-cache/bbc34b9727e8ffdf0f33d78ef4345dbd86c0d7bf/output/AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/neutron/.android/build-cache/7712e82a840964b7b43d338b7cb6b8481768ad67/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] /home/neutron/.android/build-cache/3646e490e826d62c4952121ddd826a20e874977f/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /home/neutron/.android/build-cache/516b2f2d5a03c79c278bfc9aa7e0b4b3d65fea70/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /home/neutron/.android/build-cache/caba13ec40ad0080ca2d03ad675e7978911efdcc/output/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] /home/neutron/.android/build-cache/64c3466714f87cf3f4b57bdfe5413c0d24c5723e/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] /home/neutron/.android/build-cache/1e2e74860b421720db1f8db7f09d2a72108345f9/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from /home/neutron/AndroidStudioProjects/P2PMap/app/src/main/AndroidManifest.xml:12:22-76
+application
+ADDED from /home/neutron/AndroidStudioProjects/P2PMap/app/src/main/AndroidManifest.xml:14:5-42:19
+MERGED from [com.google.android.gms:play-services:10.2.0] /home/neutron/.android/build-cache/b9901bcdbe41f9bc00d6c0ad5d72ed785836f206/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] /home/neutron/.android/build-cache/86b4e3dd5774c70073c373056d40d1d5d7425550/output/AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-analytics:10.2.0] /home/neutron/.android/build-cache/8193db9a1d4afa069d46e5ef48df78111b42565a/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.0] /home/neutron/.android/build-cache/770411493bc5576c2547ea43b66db2228ca4f7e2/output/AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:10.2.0] /home/neutron/.android/build-cache/314868362bcb359989fc9abc72d1158188d0f9bd/output/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.0] /home/neutron/.android/build-cache/9a674c4282088ea7a331e46b7f52688fcf5e1249/output/AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:10.2.0] /home/neutron/.android/build-cache/f38851a56dcdef13a1124accda453eb369afae17/output/AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:24.0.0] /home/neutron/.android/build-cache/3f0104fc2c82e11f665ecb99e020028530be8f06/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:palette-v7:24.0.0] /home/neutron/.android/build-cache/616117043c4832d2fd84d1d8b5fe77e6bb28b6e0/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/neutron/.android/build-cache/908d4901ca9047a01fb2e9b210c9e3e6c7cba13b/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/neutron/.android/build-cache/30ff83ccf303c56bbbb296803c18ef8514858e9b/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/neutron/.android/build-cache/c0e57823423618ca03add2d601ce2a23fa9e551e/output/AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.0] /home/neutron/.android/build-cache/b855ed4d8e39214e39a8f5ccc988807c59c834dc/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:10.2.0] /home/neutron/.android/build-cache/6a561f4b5c913daad094f359528f3e2cd1405b45/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:10.2.0] /home/neutron/.android/build-cache/e35d07f92daa1916e08222672f67f3f8ac4a378c/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:10.2.0] /home/neutron/.android/build-cache/34ebbf99de498b7befb84c224f8707326bc99485/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth:10.2.0] /home/neutron/.android/build-cache/6604f15ce6f8cd9eaee2f815f3d99dc09db0cd34/output/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-messaging:10.2.0] /home/neutron/.android/build-cache/fbd0ffc22f2210945f1c20656e95c02d0a48bfda/output/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-fitness:10.2.0] /home/neutron/.android/build-cache/bd1536ac2d5ac0f51e14ec2e379c571747619f8d/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:10.2.0] /home/neutron/.android/build-cache/1a3be28978fe46cad53f805f4755ebda67bdd5f4/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:10.2.0] /home/neutron/.android/build-cache/6d2423ef7b27fae510600381abdba671070c2ca3/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.2.0] /home/neutron/.android/build-cache/b84663ec8271e5fd14990b18dddc33523195f812/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gcm:10.2.0] /home/neutron/.android/build-cache/861fa4f4fd14599d6c185302b65605c6fce55eaa/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:10.2.0] /home/neutron/.android/build-cache/442e4211bf27f5e9492d6c1d85a0ebc88f54eac3/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:10.2.0] /home/neutron/.android/build-cache/27833d1483ac4742e80ada78a38b93f40d7989ed/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:10.2.0] /home/neutron/.android/build-cache/5785ed67557b088a65a0bde201926c852d427824/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-nearby:10.2.0] /home/neutron/.android/build-cache/bbc34b9727e8ffdf0f33d78ef4345dbd86c0d7bf/output/AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:10.2.0] /home/neutron/.android/build-cache/672657078078dee4385b5c50c32e618824a4f95a/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:10.2.0] /home/neutron/.android/build-cache/35a7aaad44eed314461bcc0115618cb070be2235/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:10.2.0] /home/neutron/.android/build-cache/76ef68d4c119c09bdb98ff5a526d3d5fc12ea119/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.0] /home/neutron/.android/build-cache/a37f7a9fde6b91ac0d0b033414bd2a0b7471ee71/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/neutron/.android/build-cache/7712e82a840964b7b43d338b7cb6b8481768ad67/output/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] /home/neutron/.android/build-cache/3646e490e826d62c4952121ddd826a20e874977f/output/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /home/neutron/.android/build-cache/516b2f2d5a03c79c278bfc9aa7e0b4b3d65fea70/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /home/neutron/.android/build-cache/caba13ec40ad0080ca2d03ad675e7978911efdcc/output/AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.2.0] /home/neutron/.android/build-cache/2c061100c426df2ea66aa09d46048be10ef1217d/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.0] /home/neutron/.android/build-cache/5fadec803e7701054e7a22b8a517c2b6a9470d5b/output/AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] /home/neutron/.android/build-cache/64c3466714f87cf3f4b57bdfe5413c0d24c5723e/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-vision:10.2.0] /home/neutron/.android/build-cache/f823962dc137fa514e20c45563f8fa838af695a6/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-identity:10.2.0] /home/neutron/.android/build-cache/d50603bbe154e3aad88d2495122d64b501b72afb/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] /home/neutron/.android/build-cache/1e2e74860b421720db1f8db7f09d2a72108345f9/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-wearable:10.2.0] /home/neutron/.android/build-cache/a0825c1d35ba9a5fc35c07604eaca29e1955130c/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.0] /home/neutron/.android/build-cache/b8419e3ab97f344f92eea17b1b43de250bd7e7f6/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] /home/neutron/.android/build-cache/8c988b7f8d970e4cb4a0a7acdabb8afb942cbbe0/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] /home/neutron/.android/build-cache/735e21087d22dbf6d9daf0f0fd458ba997a80f52/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.2.0] /home/neutron/.android/build-cache/072b3eaf1b2feb836e1dd3486ac417c21bff28a2/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /home/neutron/.android/build-cache/2712255fb76ef2b34245d84c0d91d7e3ec8fc525/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/neutron/.android/build-cache/0eef74e601d3e09e4361453af8990f0899800a3a/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/neutron/.android/build-cache/6fad5dcd072a9a8e5a895b20a2609dec307c5402/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/neutron/.android/build-cache/782aa0e9ca5698584a8045c891a422acd24cf5fd/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /home/neutron/.android/build-cache/1361f0b126f6a2fe04313377135d527f14f20b39/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.test:runner:0.5] /home/neutron/.android/build-cache/8bab568c61422c7b79575dd63b0a20e4d149d9ba/output/AndroidManifest.xml:24:5-20
+MERGED from [com.android.support.test:exposed-instrumentation-api-publish:0.5] /home/neutron/.android/build-cache/bdbc60401d4acac02180fe331a4be702f64cbbfa/output/AndroidManifest.xml:24:5-20
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:2.2.2] /home/neutron/.android/build-cache/f39cb35758cbff8673d2b5a65771cff3b0a6ab84/output/AndroidManifest.xml:24:5-20
+	android:label
+		ADDED from /home/neutron/AndroidStudioProjects/P2PMap/app/src/main/AndroidManifest.xml:17:9-41
+	android:supportsRtl
+		ADDED from /home/neutron/AndroidStudioProjects/P2PMap/app/src/main/AndroidManifest.xml:18:9-35
+	android:allowBackup
+		ADDED from /home/neutron/AndroidStudioProjects/P2PMap/app/src/main/AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from /home/neutron/AndroidStudioProjects/P2PMap/app/src/main/AndroidManifest.xml:16:9-43
+	android:theme
+		ADDED from /home/neutron/AndroidStudioProjects/P2PMap/app/src/main/AndroidManifest.xml:19:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/neutron/AndroidStudioProjects/P2PMap/app/src/main/AndroidManifest.xml:29:9-31:55
+	android:value
+		ADDED from /home/neutron/AndroidStudioProjects/P2PMap/app/src/main/AndroidManifest.xml:31:13-52
+	android:name
+		ADDED from /home/neutron/AndroidStudioProjects/P2PMap/app/src/main/AndroidManifest.xml:30:13-58
+activity#com.example.neutron.p2pmap.MapsActivity
+ADDED from /home/neutron/AndroidStudioProjects/P2PMap/app/src/main/AndroidManifest.xml:33:9-41:20
+	android:label
+		ADDED from /home/neutron/AndroidStudioProjects/P2PMap/app/src/main/AndroidManifest.xml:35:13-56
+	android:name
+		ADDED from /home/neutron/AndroidStudioProjects/P2PMap/app/src/main/AndroidManifest.xml:34:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/neutron/AndroidStudioProjects/P2PMap/app/src/main/AndroidManifest.xml:36:13-40:29
+action#android.intent.action.MAIN
+ADDED from /home/neutron/AndroidStudioProjects/P2PMap/app/src/main/AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from /home/neutron/AndroidStudioProjects/P2PMap/app/src/main/AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/neutron/AndroidStudioProjects/P2PMap/app/src/main/AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from /home/neutron/AndroidStudioProjects/P2PMap/app/src/main/AndroidManifest.xml:39:27-74
+uses-sdk
+INJECTED from /home/neutron/AndroidStudioProjects/P2PMap/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.gms:play-services:10.2.0] /home/neutron/.android/build-cache/b9901bcdbe41f9bc00d6c0ad5d72ed785836f206/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads:10.2.0] /home/neutron/.android/build-cache/d4b324adadc1045e01bd25ffd380c01e3ce9f5cc/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] /home/neutron/.android/build-cache/86b4e3dd5774c70073c373056d40d1d5d7425550/output/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-analytics:10.2.0] /home/neutron/.android/build-cache/8193db9a1d4afa069d46e5ef48df78111b42565a/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.0] /home/neutron/.android/build-cache/770411493bc5576c2547ea43b66db2228ca4f7e2/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:10.2.0] /home/neutron/.android/build-cache/314868362bcb359989fc9abc72d1158188d0f9bd/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:10.2.0] /home/neutron/.android/build-cache/e3f57d0d1746320c864889454e9d7ca90cac6176/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.0] /home/neutron/.android/build-cache/9a674c4282088ea7a331e46b7f52688fcf5e1249/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast:10.2.0] /home/neutron/.android/build-cache/f38851a56dcdef13a1124accda453eb369afae17/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:mediarouter-v7:24.0.0] /home/neutron/.android/build-cache/3f0104fc2c82e11f665ecb99e020028530be8f06/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:24.0.0] /home/neutron/.android/build-cache/616117043c4832d2fd84d1d8b5fe77e6bb28b6e0/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/neutron/.android/build-cache/908d4901ca9047a01fb2e9b210c9e3e6c7cba13b/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/neutron/.android/build-cache/30ff83ccf303c56bbbb296803c18ef8514858e9b/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/neutron/.android/build-cache/c0e57823423618ca03add2d601ce2a23fa9e551e/output/AndroidManifest.xml:21:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.0] /home/neutron/.android/build-cache/b855ed4d8e39214e39a8f5ccc988807c59c834dc/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:10.2.0] /home/neutron/.android/build-cache/6a561f4b5c913daad094f359528f3e2cd1405b45/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:10.2.0] /home/neutron/.android/build-cache/e35d07f92daa1916e08222672f67f3f8ac4a378c/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-crash:10.2.0] /home/neutron/.android/build-cache/34ebbf99de498b7befb84c224f8707326bc99485/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-auth:10.2.0] /home/neutron/.android/build-cache/6604f15ce6f8cd9eaee2f815f3d99dc09db0cd34/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:10.2.0] /home/neutron/.android/build-cache/e4cc65e97bf0fc2b3dd59dc0351a49c288307008/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:10.2.0] /home/neutron/.android/build-cache/c14a1e9a41f1b33e52071abb050b0192d6448ea7/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-messaging:10.2.0] /home/neutron/.android/build-cache/fbd0ffc22f2210945f1c20656e95c02d0a48bfda/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage:10.2.0] /home/neutron/.android/build-cache/d2f0ed5ea651e7636598101ec3be36028596244b/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:10.2.0] /home/neutron/.android/build-cache/5464cfde312f5d3829e61c4f8592ac986f9cfa10/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-fitness:10.2.0] /home/neutron/.android/build-cache/bd1536ac2d5ac0f51e14ec2e379c571747619f8d/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:10.2.0] /home/neutron/.android/build-cache/1a3be28978fe46cad53f805f4755ebda67bdd5f4/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:10.2.0] /home/neutron/.android/build-cache/6d2423ef7b27fae510600381abdba671070c2ca3/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:10.2.0] /home/neutron/.android/build-cache/b84663ec8271e5fd14990b18dddc33523195f812/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gcm:10.2.0] /home/neutron/.android/build-cache/861fa4f4fd14599d6c185302b65605c6fce55eaa/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:10.2.0] /home/neutron/.android/build-cache/442e4211bf27f5e9492d6c1d85a0ebc88f54eac3/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:10.2.0] /home/neutron/.android/build-cache/27833d1483ac4742e80ada78a38b93f40d7989ed/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:10.2.0] /home/neutron/.android/build-cache/a3380a3cfb28c6a7811ca70118bcb01c47f2a70e/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:10.2.0] /home/neutron/.android/build-cache/5785ed67557b088a65a0bde201926c852d427824/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-nearby:10.2.0] /home/neutron/.android/build-cache/bbc34b9727e8ffdf0f33d78ef4345dbd86c0d7bf/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-panorama:10.2.0] /home/neutron/.android/build-cache/672657078078dee4385b5c50c32e618824a4f95a/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:10.2.0] /home/neutron/.android/build-cache/35a7aaad44eed314461bcc0115618cb070be2235/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:10.2.0] /home/neutron/.android/build-cache/76ef68d4c119c09bdb98ff5a526d3d5fc12ea119/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.0] /home/neutron/.android/build-cache/a37f7a9fde6b91ac0d0b033414bd2a0b7471ee71/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:10.2.0] /home/neutron/.android/build-cache/0f8ea6fe7135d1914629a2f0d56a279f0ee61ce5/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/neutron/.android/build-cache/7712e82a840964b7b43d338b7cb6b8481768ad67/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] /home/neutron/.android/build-cache/3646e490e826d62c4952121ddd826a20e874977f/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /home/neutron/.android/build-cache/516b2f2d5a03c79c278bfc9aa7e0b4b3d65fea70/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /home/neutron/.android/build-cache/caba13ec40ad0080ca2d03ad675e7978911efdcc/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:10.2.0] /home/neutron/.android/build-cache/2c061100c426df2ea66aa09d46048be10ef1217d/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.0] /home/neutron/.android/build-cache/5fadec803e7701054e7a22b8a517c2b6a9470d5b/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] /home/neutron/.android/build-cache/64c3466714f87cf3f4b57bdfe5413c0d24c5723e/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-vision:10.2.0] /home/neutron/.android/build-cache/f823962dc137fa514e20c45563f8fa838af695a6/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-wallet:10.2.0] /home/neutron/.android/build-cache/00a6810cc7a26f5eee1d110c6228bb9b0b4756a4/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-identity:10.2.0] /home/neutron/.android/build-cache/d50603bbe154e3aad88d2495122d64b501b72afb/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] /home/neutron/.android/build-cache/1e2e74860b421720db1f8db7f09d2a72108345f9/output/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-wearable:10.2.0] /home/neutron/.android/build-cache/a0825c1d35ba9a5fc35c07604eaca29e1955130c/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.0] /home/neutron/.android/build-cache/b8419e3ab97f344f92eea17b1b43de250bd7e7f6/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] /home/neutron/.android/build-cache/8c988b7f8d970e4cb4a0a7acdabb8afb942cbbe0/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] /home/neutron/.android/build-cache/735e21087d22dbf6d9daf0f0fd458ba997a80f52/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.2.0] /home/neutron/.android/build-cache/072b3eaf1b2feb836e1dd3486ac417c21bff28a2/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /home/neutron/.android/build-cache/2712255fb76ef2b34245d84c0d91d7e3ec8fc525/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/neutron/.android/build-cache/0eef74e601d3e09e4361453af8990f0899800a3a/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/neutron/.android/build-cache/6fad5dcd072a9a8e5a895b20a2609dec307c5402/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/neutron/.android/build-cache/782aa0e9ca5698584a8045c891a422acd24cf5fd/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] /home/neutron/.android/build-cache/1361f0b126f6a2fe04313377135d527f14f20b39/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.test.espresso:espresso-core:2.2.2] /home/neutron/.android/build-cache/cb4d508496c6d52637ee68f68eb09a9f03bd474d/output/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.test:rules:0.5] /home/neutron/.android/build-cache/f4dbba8ba28767df7be2ad22e76e346e29815c6b/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.test:runner:0.5] /home/neutron/.android/build-cache/8bab568c61422c7b79575dd63b0a20e4d149d9ba/output/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.test:exposed-instrumentation-api-publish:0.5] /home/neutron/.android/build-cache/bdbc60401d4acac02180fe331a4be702f64cbbfa/output/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:2.2.2] /home/neutron/.android/build-cache/f39cb35758cbff8673d2b5a65771cff3b0a6ab84/output/AndroidManifest.xml:20:5-22:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.2.0] /home/neutron/.android/build-cache/908d4901ca9047a01fb2e9b210c9e3e6c7cba13b/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/neutron/AndroidStudioProjects/P2PMap/app/src/main/AndroidManifest.xml
+		INJECTED from /home/neutron/AndroidStudioProjects/P2PMap/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/neutron/AndroidStudioProjects/P2PMap/app/src/main/AndroidManifest.xml
+		INJECTED from /home/neutron/AndroidStudioProjects/P2PMap/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] /home/neutron/.android/build-cache/86b4e3dd5774c70073c373056d40d1d5d7425550/output/AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] /home/neutron/.android/build-cache/86b4e3dd5774c70073c373056d40d1d5d7425550/output/AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] /home/neutron/.android/build-cache/86b4e3dd5774c70073c373056d40d1d5d7425550/output/AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] /home/neutron/.android/build-cache/86b4e3dd5774c70073c373056d40d1d5d7425550/output/AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] /home/neutron/.android/build-cache/86b4e3dd5774c70073c373056d40d1d5d7425550/output/AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] /home/neutron/.android/build-cache/86b4e3dd5774c70073c373056d40d1d5d7425550/output/AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] /home/neutron/.android/build-cache/86b4e3dd5774c70073c373056d40d1d5d7425550/output/AndroidManifest.xml:26:19-91
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:10.2.0] /home/neutron/.android/build-cache/8193db9a1d4afa069d46e5ef48df78111b42565a/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] /home/neutron/.android/build-cache/3646e490e826d62c4952121ddd826a20e874977f/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /home/neutron/.android/build-cache/516b2f2d5a03c79c278bfc9aa7e0b4b3d65fea70/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /home/neutron/.android/build-cache/caba13ec40ad0080ca2d03ad675e7978911efdcc/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] /home/neutron/.android/build-cache/64c3466714f87cf3f4b57bdfe5413c0d24c5723e/output/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:10.2.0] /home/neutron/.android/build-cache/8193db9a1d4afa069d46e5ef48df78111b42565a/output/AndroidManifest.xml:24:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /home/neutron/.android/build-cache/770411493bc5576c2547ea43b66db2228ca4f7e2/output/AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /home/neutron/.android/build-cache/770411493bc5576c2547ea43b66db2228ca4f7e2/output/AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /home/neutron/.android/build-cache/770411493bc5576c2547ea43b66db2228ca4f7e2/output/AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /home/neutron/.android/build-cache/770411493bc5576c2547ea43b66db2228ca4f7e2/output/AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /home/neutron/.android/build-cache/770411493bc5576c2547ea43b66db2228ca4f7e2/output/AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /home/neutron/.android/build-cache/770411493bc5576c2547ea43b66db2228ca4f7e2/output/AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /home/neutron/.android/build-cache/770411493bc5576c2547ea43b66db2228ca4f7e2/output/AndroidManifest.xml:22:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /home/neutron/.android/build-cache/770411493bc5576c2547ea43b66db2228ca4f7e2/output/AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] /home/neutron/.android/build-cache/770411493bc5576c2547ea43b66db2228ca4f7e2/output/AndroidManifest.xml:23:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:10.2.0] /home/neutron/.android/build-cache/314868362bcb359989fc9abc72d1158188d0f9bd/output/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /home/neutron/.android/build-cache/314868362bcb359989fc9abc72d1158188d0f9bd/output/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /home/neutron/.android/build-cache/314868362bcb359989fc9abc72d1158188d0f9bd/output/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /home/neutron/.android/build-cache/314868362bcb359989fc9abc72d1158188d0f9bd/output/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /home/neutron/.android/build-cache/314868362bcb359989fc9abc72d1158188d0f9bd/output/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:10.2.0] /home/neutron/.android/build-cache/314868362bcb359989fc9abc72d1158188d0f9bd/output/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /home/neutron/.android/build-cache/314868362bcb359989fc9abc72d1158188d0f9bd/output/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /home/neutron/.android/build-cache/314868362bcb359989fc9abc72d1158188d0f9bd/output/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] /home/neutron/.android/build-cache/314868362bcb359989fc9abc72d1158188d0f9bd/output/AndroidManifest.xml:24:18-63
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] /home/neutron/.android/build-cache/9a674c4282088ea7a331e46b7f52688fcf5e1249/output/AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] /home/neutron/.android/build-cache/9a674c4282088ea7a331e46b7f52688fcf5e1249/output/AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] /home/neutron/.android/build-cache/9a674c4282088ea7a331e46b7f52688fcf5e1249/output/AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] /home/neutron/.android/build-cache/9a674c4282088ea7a331e46b7f52688fcf5e1249/output/AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] /home/neutron/.android/build-cache/9a674c4282088ea7a331e46b7f52688fcf5e1249/output/AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] /home/neutron/.android/build-cache/9a674c4282088ea7a331e46b7f52688fcf5e1249/output/AndroidManifest.xml:7:18-90
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:10.2.0] /home/neutron/.android/build-cache/fbd0ffc22f2210945f1c20656e95c02d0a48bfda/output/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:10.2.0] /home/neutron/.android/build-cache/fbd0ffc22f2210945f1c20656e95c02d0a48bfda/output/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.2.0] /home/neutron/.android/build-cache/fbd0ffc22f2210945f1c20656e95c02d0a48bfda/output/AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.2.0] /home/neutron/.android/build-cache/fbd0ffc22f2210945f1c20656e95c02d0a48bfda/output/AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:10.2.0] /home/neutron/.android/build-cache/fbd0ffc22f2210945f1c20656e95c02d0a48bfda/output/AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.2.0] /home/neutron/.android/build-cache/fbd0ffc22f2210945f1c20656e95c02d0a48bfda/output/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.2.0] /home/neutron/.android/build-cache/fbd0ffc22f2210945f1c20656e95c02d0a48bfda/output/AndroidManifest.xml:25:25-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:10.2.0] /home/neutron/.android/build-cache/861fa4f4fd14599d6c185302b65605c6fce55eaa/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.2.0] /home/neutron/.android/build-cache/27833d1483ac4742e80ada78a38b93f40d7989ed/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:10.2.0] /home/neutron/.android/build-cache/caba13ec40ad0080ca2d03ad675e7978911efdcc/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:10.2.0] /home/neutron/.android/build-cache/861fa4f4fd14599d6c185302b65605c6fce55eaa/output/AndroidManifest.xml:20:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/neutron/.android/build-cache/7712e82a840964b7b43d338b7cb6b8481768ad67/output/AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/neutron/.android/build-cache/7712e82a840964b7b43d338b7cb6b8481768ad67/output/AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/neutron/.android/build-cache/7712e82a840964b7b43d338b7cb6b8481768ad67/output/AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/neutron/.android/build-cache/7712e82a840964b7b43d338b7cb6b8481768ad67/output/AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/neutron/.android/build-cache/7712e82a840964b7b43d338b7cb6b8481768ad67/output/AndroidManifest.xml:25:9-32:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/neutron/.android/build-cache/7712e82a840964b7b43d338b7cb6b8481768ad67/output/AndroidManifest.xml:25:94-118
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/neutron/.android/build-cache/7712e82a840964b7b43d338b7cb6b8481768ad67/output/AndroidManifest.xml:25:19-93
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/neutron/.android/build-cache/7712e82a840964b7b43d338b7cb6b8481768ad67/output/AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/neutron/.android/build-cache/7712e82a840964b7b43d338b7cb6b8481768ad67/output/AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/neutron/.android/build-cache/7712e82a840964b7b43d338b7cb6b8481768ad67/output/AndroidManifest.xml:27:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/neutron/.android/build-cache/7712e82a840964b7b43d338b7cb6b8481768ad67/output/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/neutron/.android/build-cache/7712e82a840964b7b43d338b7cb6b8481768ad67/output/AndroidManifest.xml:28:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/neutron/.android/build-cache/7712e82a840964b7b43d338b7cb6b8481768ad67/output/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] /home/neutron/.android/build-cache/7712e82a840964b7b43d338b7cb6b8481768ad67/output/AndroidManifest.xml:30:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/neutron/.android/build-cache/3646e490e826d62c4952121ddd826a20e874977f/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /home/neutron/.android/build-cache/516b2f2d5a03c79c278bfc9aa7e0b4b3d65fea70/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/neutron/.android/build-cache/3646e490e826d62c4952121ddd826a20e874977f/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/neutron/.android/build-cache/3646e490e826d62c4952121ddd826a20e874977f/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/neutron/.android/build-cache/3646e490e826d62c4952121ddd826a20e874977f/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/neutron/.android/build-cache/3646e490e826d62c4952121ddd826a20e874977f/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/neutron/.android/build-cache/3646e490e826d62c4952121ddd826a20e874977f/output/AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/neutron/.android/build-cache/3646e490e826d62c4952121ddd826a20e874977f/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/neutron/.android/build-cache/3646e490e826d62c4952121ddd826a20e874977f/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/neutron/.android/build-cache/3646e490e826d62c4952121ddd826a20e874977f/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/neutron/.android/build-cache/3646e490e826d62c4952121ddd826a20e874977f/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/neutron/.android/build-cache/3646e490e826d62c4952121ddd826a20e874977f/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/neutron/.android/build-cache/3646e490e826d62c4952121ddd826a20e874977f/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] /home/neutron/.android/build-cache/516b2f2d5a03c79c278bfc9aa7e0b4b3d65fea70/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/neutron/.android/build-cache/3646e490e826d62c4952121ddd826a20e874977f/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/neutron/.android/build-cache/3646e490e826d62c4952121ddd826a20e874977f/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] /home/neutron/.android/build-cache/3646e490e826d62c4952121ddd826a20e874977f/output/AndroidManifest.xml:32:16-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/neutron/.android/build-cache/caba13ec40ad0080ca2d03ad675e7978911efdcc/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/neutron/.android/build-cache/caba13ec40ad0080ca2d03ad675e7978911efdcc/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/neutron/.android/build-cache/caba13ec40ad0080ca2d03ad675e7978911efdcc/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/neutron/.android/build-cache/caba13ec40ad0080ca2d03ad675e7978911efdcc/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/neutron/.android/build-cache/caba13ec40ad0080ca2d03ad675e7978911efdcc/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/neutron/.android/build-cache/caba13ec40ad0080ca2d03ad675e7978911efdcc/output/AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/neutron/.android/build-cache/caba13ec40ad0080ca2d03ad675e7978911efdcc/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/neutron/.android/build-cache/caba13ec40ad0080ca2d03ad675e7978911efdcc/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/neutron/.android/build-cache/caba13ec40ad0080ca2d03ad675e7978911efdcc/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/neutron/.android/build-cache/caba13ec40ad0080ca2d03ad675e7978911efdcc/output/AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/neutron/.android/build-cache/caba13ec40ad0080ca2d03ad675e7978911efdcc/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/neutron/.android/build-cache/caba13ec40ad0080ca2d03ad675e7978911efdcc/output/AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/neutron/.android/build-cache/caba13ec40ad0080ca2d03ad675e7978911efdcc/output/AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/neutron/.android/build-cache/caba13ec40ad0080ca2d03ad675e7978911efdcc/output/AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/neutron/.android/build-cache/caba13ec40ad0080ca2d03ad675e7978911efdcc/output/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/neutron/.android/build-cache/caba13ec40ad0080ca2d03ad675e7978911efdcc/output/AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/neutron/.android/build-cache/caba13ec40ad0080ca2d03ad675e7978911efdcc/output/AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/neutron/.android/build-cache/caba13ec40ad0080ca2d03ad675e7978911efdcc/output/AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/neutron/.android/build-cache/caba13ec40ad0080ca2d03ad675e7978911efdcc/output/AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/neutron/.android/build-cache/caba13ec40ad0080ca2d03ad675e7978911efdcc/output/AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/neutron/.android/build-cache/caba13ec40ad0080ca2d03ad675e7978911efdcc/output/AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/neutron/.android/build-cache/caba13ec40ad0080ca2d03ad675e7978911efdcc/output/AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/neutron/.android/build-cache/caba13ec40ad0080ca2d03ad675e7978911efdcc/output/AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/neutron/.android/build-cache/caba13ec40ad0080ca2d03ad675e7978911efdcc/output/AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/neutron/.android/build-cache/caba13ec40ad0080ca2d03ad675e7978911efdcc/output/AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] /home/neutron/.android/build-cache/caba13ec40ad0080ca2d03ad675e7978911efdcc/output/AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.2.0] /home/neutron/.android/build-cache/2c061100c426df2ea66aa09d46048be10ef1217d/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.2.0] /home/neutron/.android/build-cache/2c061100c426df2ea66aa09d46048be10ef1217d/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.2.0] /home/neutron/.android/build-cache/2c061100c426df2ea66aa09d46048be10ef1217d/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.2.0] /home/neutron/.android/build-cache/2c061100c426df2ea66aa09d46048be10ef1217d/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.2.0] /home/neutron/.android/build-cache/2c061100c426df2ea66aa09d46048be10ef1217d/output/AndroidManifest.xml:6:79-143
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.0] /home/neutron/.android/build-cache/1e2e74860b421720db1f8db7f09d2a72108345f9/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.0] /home/neutron/.android/build-cache/1e2e74860b421720db1f8db7f09d2a72108345f9/output/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.0] /home/neutron/.android/build-cache/1e2e74860b421720db1f8db7f09d2a72108345f9/output/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.0] /home/neutron/.android/build-cache/b8419e3ab97f344f92eea17b1b43de250bd7e7f6/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] /home/neutron/.android/build-cache/b8419e3ab97f344f92eea17b1b43de250bd7e7f6/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] /home/neutron/.android/build-cache/b8419e3ab97f344f92eea17b1b43de250bd7e7f6/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] /home/neutron/.android/build-cache/b8419e3ab97f344f92eea17b1b43de250bd7e7f6/output/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.0] /home/neutron/.android/build-cache/735e21087d22dbf6d9daf0f0fd458ba997a80f52/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.0] /home/neutron/.android/build-cache/735e21087d22dbf6d9daf0f0fd458ba997a80f52/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.0] /home/neutron/.android/build-cache/735e21087d22dbf6d9daf0f0fd458ba997a80f52/output/AndroidManifest.xml:20:20-65

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/neutron/.android/build-cache/908d4901ca9047a01fb2e9b210c9e3e6c7cba13b/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/neutron/.android/build-cache/908d4901ca9047a01fb2e9b210c9e3e6c7cba13b/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

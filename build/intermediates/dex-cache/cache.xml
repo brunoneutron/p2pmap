@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/hamcrest-core-1.3_20dea047eb932a5ae8fdb506bc7e3d0d4847f95f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/64c3466714f87cf3f4b57bdfe5413c0d24c5723e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca82d5800780b1d53f0f9ab43678d8634a34cddc">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8781ed7f950ade94cb442def18604585ef4453a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.0_1e4166583dd120fd14336f0739c994fee0e83d43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/861fa4f4fd14599d6c185302b65605c6fce55eaa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea03bbfaed89818f233ee9918fac493f2b63895a">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7c802ae0a09f119bc78614b5dcf53c721c210f92/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/072b3eaf1b2feb836e1dd3486ac417c21bff28a2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_25840502e7c14650e338324cd82c2900452ceb82/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/3646e490e826d62c4952121ddd826a20e874977f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5bdb53b5b300c3470149d59a7d3cb5aab3c39925/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/httpclient-4.3.6_6d76a533c0ec95f638e453d6123474b26685dc6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/6a561f4b5c913daad094f359528f3e2cd1405b45/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="74c5a91d6510ad42410e8a047d90d2ea6721a0e0">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eccb4df30bffc20d6adc8de45d2a86469ae7d7bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/3f0104fc2c82e11f665ecb99e020028530be8f06/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4cfd0a8b7dddca91b836f102328989ddb0514366/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/35a7aaad44eed314461bcc0115618cb070be2235/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="654b294d429b56fd18392f2b68ad79954f431f8e">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_af8fc2b9f99e999464aad17f007e76f414fcc15b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/bdbc60401d4acac02180fe331a4be702f64cbbfa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="905f3e63973d47fedf2d945fa31d8c0f0c98816e">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5427d2eb4bfbde3229b52fdd096ee62a4aa2c07c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/c0e57823423618ca03add2d601ce2a23fa9e551e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ee0d973a61d00c73170ad3108001be62780451c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/f823962dc137fa514e20c45563f8fa838af695a6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="444f9de23145e8caba7bf1c1772acad142ea6013">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_639599687bc932e1fe6d968eeaedef3357b84228/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/8bab568c61422c7b79575dd63b0a20e4d149d9ba/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="796f9229948e907471c5595fbe94655ccf03ff73">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3acb89ffee49dc63d623ca86b56a998703090ad5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/d2f0ed5ea651e7636598101ec3be36028596244b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e1d31656bc9f1889283836e025e6cb703acd38a">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a6603eea9c2a14a53ba79c5051d8135729be250e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/bd1536ac2d5ac0f51e14ec2e379c571747619f8d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab0c7fe28f9506302eb39adf1ebf5858732e18ec">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f0c88e054883525ca6cf5740450071dd26f17c35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/782aa0e9ca5698584a8045c891a422acd24cf5fd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0c030f702e25cb152eab40045998c3722b78fff7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/cb4d508496c6d52637ee68f68eb09a9f03bd474d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d115b0e9e1501135fe91254ba884fcbd83d374c0">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7ef97fa3c9c84c67dfad2f4b23bb409f596dbd7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/7712e82a840964b7b43d338b7cb6b8481768ad67/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9d1d0e1270310e34e2d65afda2bc18605c14cd46">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2ef15874501927bb558298ce9d3d96cb87d240b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/f38851a56dcdef13a1124accda453eb369afae17/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3f7595ca32e614b454ceb7b7e241bb037a28e86">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e86127ac3fc00bccf2d629e335860196db81caf9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_498489d5c4fa39c858b54949d1f49b1ce4a17b1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_2be16ca9ec8a58c7e72b59d973ba5566148f2fce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/8193db9a1d4afa069d46e5ef48df78111b42565a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68485f21eeb5d6c9ed82c445d520b9fc81c87108">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5655289e2fdfe3a47f12ceb1760392e140ceb69d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.2/479c1e06db31c432330183f5cae684163f186146/javax.annotation-api-1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.annotation-api-1.2_3a79b103e3ad874bbf38cc671c5baa7e2b55eebc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/b8419e3ab97f344f92eea17b1b43de250bd7e7f6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_92131e5bb65ea3d29d0ad30d430401eacc702d20/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/bbc34b9727e8ffdf0f33d78ef4345dbd86c0d7bf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7d14fe9bd2283b2eb7fcab08458aa0357917e138">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f92213cc5e26f3d6c068bd8b29e914250f71d5dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/770411493bc5576c2547ea43b66db2228ca4f7e2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="646b2c48e147b943f0a39842457fdc66d501e4b6">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f7e01061db93b92187fbb2a3096049ec62f8f328/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/f4dbba8ba28767df7be2ad22e76e346e29815c6b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e11799d8a26bfa5d48acafe012ee5545b9bf468">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_af15995bc2007618032ec4cacce61595dd012f2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/caba13ec40ad0080ca2d03ad675e7978911efdcc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2626620bde7d704bf10f9d0ac0aec5c5775e9642/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-library/1.3/4785a3c21320980282f9f33d0d1264a69040538f/hamcrest-library-1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/hamcrest-library-1.3_866fcfe1a699f0b79ebdd09262f3e375b9c50343/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/616117043c4832d2fd84d1d8b5fe77e6bb28b6e0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1af5c351d3331f5525d81276a7fd1575cee5f494/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/1e2e74860b421720db1f8db7f09d2a72108345f9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_79c88c8473f6160a9391ceeed4e6443294f51739/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/0eef74e601d3e09e4361453af8990f0899800a3a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_96a5ad653bae5812472819dec9649279d50d246d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/e4cc65e97bf0fc2b3dd59dc0351a49c288307008/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94fca868854457ede6df15c902938468c71d579e">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8339781f9600a093da7da70ed91e181620d36e56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/d4b324adadc1045e01bd25ffd380c01e3ce9f5cc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa23e4589287adb431ef59d6c78af79ab8885682">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_248849461ecd183901d64f406d21cdfac80e32d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/2c061100c426df2ea66aa09d46048be10ef1217d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_18646f5e933916a2f62f59f737465913fee91ae4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-integration/1.3/5de0c73fef18917cd85d0ab70bb23818685e4dfd/hamcrest-integration-1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/hamcrest-integration-1.3_dc692b1552fa597967f4f270fde286445182a0c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/fbd0ffc22f2210945f1c20656e95c02d0a48bfda/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75575883f0348fc5d2be85f23bd10b050095cf17">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_42c415d0332740fd4b4232f8044c3935c99a7432/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/e35d07f92daa1916e08222672f67f3f8ac4a378c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45e0953544711e0b5a2d227732e88cccb82793bc">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_be74091d2f192b5c4f4fb947bacf02a63861dd07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/8c988b7f8d970e4cb4a0a7acdabb8afb942cbbe0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_53373146d41b428826fc85bbbdfe18e61962b2a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/a3380a3cfb28c6a7811ca70118bcb01c47f2a70e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="423fb69e69759d8b726fa4a4fb6a1ea9fc86d1cd">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1bf66627926d4b6025166a97c8023e731cc62c7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/908d4901ca9047a01fb2e9b210c9e3e6c7cba13b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2e7ac744c0a3adb22a5f397b603c7e0bba927966/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/86b4e3dd5774c70073c373056d40d1d5d7425550/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ef2d91da513c4d7e773ae438fe04d0e4c135957">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2bafaf009af89900647a60279d9fa9aed77592f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/c14a1e9a41f1b33e52071abb050b0192d6448ea7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e301f24b283f14b564f660c9abe863af6be5896">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6f0ea2afd452810c8777fbcbc75f9b0eca13c5c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/1361f0b126f6a2fe04313377135d527f14f20b39/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2b2b8f54449cc44ccfaba9f8c8578971fc858393/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/00a6810cc7a26f5eee1d110c6228bb9b0b4756a4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1bab75be1918fc9871be4da7afe38d7e4d308303">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f8cdcad58b12aa0336d8eac2ada4bda5c0451d1d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/6d2423ef7b27fae510600381abdba671070c2ca3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="90270132a5f1a33584f453c571257dd35e728201">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4d2ea7309843078b499e6cf6bac2bd621862539d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/6604f15ce6f8cd9eaee2f815f3d99dc09db0cd34/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48532a016bb0dfbe7970c147ce784598a515406b">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0796dd5ca63d43e963ec2215fb04049b438af856/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-2.0.1_2fe2aa7e9be1a5336216ca68abac6652a77357d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/5fadec803e7701054e7a22b8a517c2b6a9470d5b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8438c64f9eb581429dc592f7c9b3156a3d071653">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_72168d68c779c01cd08503f97e31744dbbb58475/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.1.1/67ff45d9ae02e583d0f9b3432a5ebbe05c30c966/javawriter-2.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/javawriter-2.1.1_dfdbba233d2534a40a1c36e6cea466fda781e914/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/516b2f2d5a03c79c278bfc9aa7e0b4b3d65fea70/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_59d83e667bf03d6cd152ad368dc35d697ff28d26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/314868362bcb359989fc9abc72d1158188d0f9bd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b831d3902674d096189451d46fce219e2c2904b7">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a700bf0235a501174e58d82c5668a736118998f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/e3f57d0d1746320c864889454e9d7ca90cac6176/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e01b82d664e1a8253b2b9658e74b5da35c8771d">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_62a687e802ae6b59126db563b17b2203afc0eae8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/b855ed4d8e39214e39a8f5ccc988807c59c834dc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f4483afd050f3be12db7838422309446a45daa1">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_366deba877374686ac19e784ea24e9bd9a7eef72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/27833d1483ac4742e80ada78a38b93f40d7989ed/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="421a5cebe9ff187c98075c59786e9464c5c67d36">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_36138d8e2bc22f584aa2cc0af91627bd1cf91dff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/735e21087d22dbf6d9daf0f0fd458ba997a80f52/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ced5fc696b15ae4a8b9ae9ff5df6a42235a1dcba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/junit-4.12_2deb74c7aa159538fca73f2cba871f0271abd02e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/30ff83ccf303c56bbbb296803c18ef8514858e9b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b3d21913477757b01247b5240743a9f9467551c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/f39cb35758cbff8673d2b5a65771cff3b0a6ab84/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a890ee8445927649d9ed50f625a315d8758688be">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c9d83ead47353040ff9f40ccf3bd054b056b3293/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/2712255fb76ef2b34245d84c0d91d7e3ec8fc525/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_52211aeb9f2a93d42d945ef146c6c611adff79c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/6fad5dcd072a9a8e5a895b20a2609dec307c5402/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1656700f12a4a8adf2e751c1003ec54667392b74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/a37f7a9fde6b91ac0d0b033414bd2a0b7471ee71/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3aaf1e7b5fe9f4d3ff22c4edc0ead631f7389d30">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_38dcb8908baebc504dd94d24c31bd58d58193853/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/9a674c4282088ea7a331e46b7f52688fcf5e1249/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fd2e9eadc9d214966ee7f60d6c5a17a335d7533">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d5c80be14576bc9e18163d8d517807cb673ca8d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/5464cfde312f5d3829e61c4f8592ac986f9cfa10/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1df6d719c4e264d66bb98baa5cb637495b8cca66">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_92f9be397247befcc6f1e6a82afd9bb79d638863/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/android-async-http-1.4.9_f44427f4530f9f220e2f7176bb86c35279daeed4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/3f0104fc2c82e11f665ecb99e020028530be8f06/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_c4d964acbe82951ead09a55dd169bac65813d110/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/a0825c1d35ba9a5fc35c07604eaca29e1955130c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="101393e975eaf36e3ff40b277ee9a019e077afef">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ade0c3d70b6eca7ed5f40d188cd763a41dfe0d95/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/34ebbf99de498b7befb84c224f8707326bc99485/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0f58195bee8a08f35e7d4ee7fd4b0479e570e172">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e3121d8ad062080bd9c476421484a16113090ce7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_12774972d28414d59aff594a54d4648bf640e674/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="008bad2f90418b86104ac0ada83a775e577dcad5">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b5028f3c5922e56b5094f0e675a68d7eb3a37fe1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/5785ed67557b088a65a0bde201926c852d427824/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d08bb32b88df3dbcbe1d498c3c57f020b8c521ec">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c23f6bb3f0d7cdd605e38bb675fae2f77901eab8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/442e4211bf27f5e9492d6c1d85a0ebc88f54eac3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1fbf3733f36fea63e70373212796e70f9079981f">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c8625bc07af87a2fe3024f0be5a2482089564369/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/0f8ea6fe7135d1914629a2f0d56a279f0ee61ce5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9493f008850469ed3fab9b28658919562882aed">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_971296384a0b614c304cc19f2b4221d1acb65a93/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/b84663ec8271e5fd14990b18dddc33523195f812/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="857ce7350acf811749c8fd0254d3d39b02aa71f5">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dd5ad0dff78f7f7cdfba26be53d5de9bee336d5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/1a3be28978fe46cad53f805f4755ebda67bdd5f4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddb7fed808f4331174b59428ccfc46b3696c9812">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b50dbb42b13971bdff884f2a9b0df58c331c9932/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/76ef68d4c119c09bdb98ff5a526d3d5fc12ea119/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7157a9577c983651d6c6ee313813424fe2d8ab6">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3b133afd6b6f12ae0da0511b0fe8d8013907df44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/672657078078dee4385b5c50c32e618824a4f95a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db4aca1c1ec60f2c098d3b6c91cedfb7838f83ed">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a91d47c56551ab9b90b5f98ea9b5daa3d351500b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/neutron/.android/build-cache/d50603bbe154e3aad88d2495122d64b501b72afb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db48dfabe8ecc46681ceca418d6bd61a5339f818">
+        <dex dex="/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eee80b9d3bace9ee1ba897696bd50a45b4b53068/classes.dex" />
+    </item>
+
+</items>

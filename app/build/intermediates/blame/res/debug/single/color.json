@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/home/neutron/.android/build-cache/b8419e3ab97f344f92eea17b1b43de250bd7e7f6/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/home/neutron/.android/build-cache/908d4901ca9047a01fb2e9b210c9e3e6c7cba13b/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/home/neutron/.android/build-cache/908d4901ca9047a01fb2e9b210c9e3e6c7cba13b/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/neutron/.android/build-cache/908d4901ca9047a01fb2e9b210c9e3e6c7cba13b/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/home/neutron/.android/build-cache/908d4901ca9047a01fb2e9b210c9e3e6c7cba13b/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/home/neutron/.android/build-cache/908d4901ca9047a01fb2e9b210c9e3e6c7cba13b/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/home/neutron/.android/build-cache/908d4901ca9047a01fb2e9b210c9e3e6c7cba13b/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/home/neutron/.android/build-cache/908d4901ca9047a01fb2e9b210c9e3e6c7cba13b/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/home/neutron/.android/build-cache/908d4901ca9047a01fb2e9b210c9e3e6c7cba13b/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/home/neutron/.android/build-cache/908d4901ca9047a01fb2e9b210c9e3e6c7cba13b/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/home/neutron/.android/build-cache/b8419e3ab97f344f92eea17b1b43de250bd7e7f6/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/home/neutron/.android/build-cache/908d4901ca9047a01fb2e9b210c9e3e6c7cba13b/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/res/merged/debug/color/wallet_primary_text_holo_light.xml",
+        "source": "/home/neutron/.android/build-cache/00a6810cc7a26f5eee1d110c6228bb9b0b4756a4/output/res/color/wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/home/neutron/.android/build-cache/908d4901ca9047a01fb2e9b210c9e3e6c7cba13b/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/neutron/.android/build-cache/908d4901ca9047a01fb2e9b210c9e3e6c7cba13b/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
+        "source": "/home/neutron/.android/build-cache/b8419e3ab97f344f92eea17b1b43de250bd7e7f6/output/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/res/merged/debug/color/wallet_secondary_text_holo_dark.xml",
+        "source": "/home/neutron/.android/build-cache/00a6810cc7a26f5eee1d110c6228bb9b0b4756a4/output/res/color/wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/neutron/.android/build-cache/908d4901ca9047a01fb2e9b210c9e3e6c7cba13b/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/neutron/.android/build-cache/908d4901ca9047a01fb2e9b210c9e3e6c7cba13b/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/neutron/.android/build-cache/908d4901ca9047a01fb2e9b210c9e3e6c7cba13b/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/home/neutron/.android/build-cache/908d4901ca9047a01fb2e9b210c9e3e6c7cba13b/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/neutron/.android/build-cache/908d4901ca9047a01fb2e9b210c9e3e6c7cba13b/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/home/neutron/.android/build-cache/908d4901ca9047a01fb2e9b210c9e3e6c7cba13b/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/home/neutron/.android/build-cache/908d4901ca9047a01fb2e9b210c9e3e6c7cba13b/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/neutron/.android/build-cache/908d4901ca9047a01fb2e9b210c9e3e6c7cba13b/output/res/color/abc_secondary_text_material_dark.xml"
+    }
+]

@@ -1,0 +1,7 @@
+#Fri Mar 17 16:10:01 KST 2017
+base.0=/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b5028f3c5922e56b5094f0e675a68d7eb3a37fe1
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_12774972d28414d59aff594a54d4648bf640e674/classes.dex
+base.1=/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_12774972d28414d59aff594a54d4648bf640e674
+file.0=/home/neutron/AndroidStudioProjects/P2PMap/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b5028f3c5922e56b5094f0e675a68d7eb3a37fe1/classes.dex

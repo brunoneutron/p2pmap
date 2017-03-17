@@ -481,14 +481,13 @@ public class MapsActivity extends AppCompatActivity implements
 
     /********************************************* The code above has been tested and is working *****************************************/
     public void getOSRMData(){
-        /*Context context = getApplication();
 
-        ConnectivityManager cm = (ConnectivityManager) context.getSystemService(Context.CONNECTIVITY_SERVICE);
-        NetworkInfo activeNetwork = cm.getActiveNetworkInfo();
-        if(activeNetwork != null){
-            if(activeNetwork.getType() == ConnectivityManager.TYPE_WIFI) {
-                Toast.makeText(context, activeNetwork.getTypeName(), Toast.LENGTH_LONG).show();
-
+        ConnectivityManager connectivityManager = (ConnectivityManager)
+                getSystemService(Context.CONNECTIVITY_SERVICE);
+        NetworkInfo networkInfo = connectivityManager.getActiveNetworkInfo();
+        if(networkInfo != null && networkInfo.isConnected()){
+            if(networkInfo.getType() == ConnectivityManager.TYPE_WIFI){
+                Toast.makeText(getApplicationContext(), networkInfo.getTypeName(),Toast.LENGTH_LONG).show();
                 try {
                     //here we make our request
                     String response = client(test_str);
@@ -497,22 +496,27 @@ public class MapsActivity extends AppCompatActivity implements
                 }catch (IOException e){
                     e.printStackTrace();
                 }
-            } else if(activeNetwork.getType() == ConnectivityManager.TYPE_MOBILE){
-                Toast.makeText(context, activeNetwork.getTypeName(), Toast.LENGTH_LONG).show();
-
+            }
+            /**
+             * Need to deal with mobile connectivity. For some reason not working now..Must be fixed!!!!
+             */
+            /*else if (networkInfo.getType() == ConnectivityManager.TYPE_MOBILE){
+                Toast.makeText(getApplicationContext(), networkInfo.getTypeName(),Toast.LENGTH_LONG).show();
                 try {
                     //here we make our request
-                    MatchRequestClient(client(test_str));
+                    String response = client(test_str);
+                    longInfo(response);
+                    MatchRequestClient(response);
                 }catch (IOException e){
                     e.printStackTrace();
                 }
+            }*/else{
+                Toast.makeText(getApplicationContext(),"No connection",Toast.LENGTH_LONG).show();
             }
-        } else{
-            Toast.makeText(context,"No connection",Toast.LENGTH_LONG).show();
-        }*/
+        }
 
 
-        MatchRequestClient(str);
+        //MatchRequestClient(str);
     }
 
     public static void longInfo(String str) {
