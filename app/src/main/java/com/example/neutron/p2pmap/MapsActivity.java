@@ -481,7 +481,7 @@ public class MapsActivity extends AppCompatActivity implements
 
     /********************************************* The code above has been tested and is working *****************************************/
     public void getOSRMData(){
-        Context context = getApplication();
+        /*Context context = getApplication();
 
         ConnectivityManager cm = (ConnectivityManager) context.getSystemService(Context.CONNECTIVITY_SERVICE);
         NetworkInfo activeNetwork = cm.getActiveNetworkInfo();
@@ -509,10 +509,10 @@ public class MapsActivity extends AppCompatActivity implements
             }
         } else{
             Toast.makeText(context,"No connection",Toast.LENGTH_LONG).show();
-        }
+        }*/
 
 
-        //MatchRequestClient(str);
+        MatchRequestClient(str);
     }
 
     public static void longInfo(String str) {
